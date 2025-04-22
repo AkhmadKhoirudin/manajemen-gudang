@@ -1,0 +1,244 @@
+D:\vb\login\login\bin\Debug\login.exe.config
+D:\vb\login\login\bin\Debug\login.exe
+D:\vb\login\login\bin\Debug\login.pdb
+D:\vb\login\login\bin\Debug\login.xml
+D:\vb\login\login\bin\Debug\System.Data.SQLite.dll
+D:\vb\login\login\bin\Debug\System.Data.SQLite.xml
+D:\vb\login\login\obj\Debug\login.vbproj.AssemblyReference.cache
+D:\vb\login\login\obj\Debug\login.Resources.resources
+D:\vb\login\login\obj\Debug\login.vbproj.GenerateResource.cache
+D:\vb\login\login\obj\Debug\login.vbproj.CoreCompileInputs.cache
+D:\vb\login\login\obj\Debug\login.vbproj.CopyComplete
+D:\vb\login\login\obj\Debug\login.exe
+D:\vb\login\login\obj\Debug\login.xml
+D:\vb\login\login\obj\Debug\login.pdb
+D:\vb\login\login\obj\Debug\login.login.resources
+D:\vb\login\login\obj\Debug\login.home.resources
+D:\vb\login\login\obj\Debug\login.menuUtama.resources
+D:\vb\login\login\obj\Debug\login.barang.resources
+D:\vb\login\login\obj\Debug\login.biodata.resources
+D:\vb\login\login\obj\Debug\login.register.resources
+D:\vb\login\login\obj\Debug\login.menuUser.resources
+D:\vb\login\login\obj\Debug\login.listuser.resources
+D:\vb\login\login\login\bin\Debug\login.exe.config
+D:\vb\login\login\login\bin\Debug\login.exe
+D:\vb\login\login\login\bin\Debug\login.pdb
+D:\vb\login\login\login\bin\Debug\login.xml
+D:\vb\login\login\login\bin\Debug\System.Data.SQLite.dll
+D:\vb\login\login\login\bin\Debug\System.Data.SQLite.xml
+D:\vb\login\login\login\obj\Debug\login.vbproj.AssemblyReference.cache
+D:\vb\login\login\login\obj\Debug\login.barang.resources
+D:\vb\login\login\login\obj\Debug\login.biodata.resources
+D:\vb\login\login\login\obj\Debug\login.listuser.resources
+D:\vb\login\login\login\obj\Debug\login.menuUser.resources
+D:\vb\login\login\login\obj\Debug\login.register.resources
+D:\vb\login\login\login\obj\Debug\login.home.resources
+D:\vb\login\login\login\obj\Debug\login.login.resources
+D:\vb\login\login\login\obj\Debug\login.menuUtama.resources
+D:\vb\login\login\login\obj\Debug\login.Resources.resources
+D:\vb\login\login\login\obj\Debug\login.vbproj.GenerateResource.cache
+D:\vb\login\login\login\obj\Debug\login.vbproj.CoreCompileInputs.cache
+D:\vb\login\login\login\obj\Debug\login.vbproj.CopyComplete
+D:\vb\login\login\login\obj\Debug\login.exe
+D:\vb\login\login\login\obj\Debug\login.xml
+D:\vb\login\login\login\obj\Debug\login.pdb
+D:\vb\PROJEK AMAN\login\login\bin\Debug\login.exe.config
+D:\vb\PROJEK AMAN\login\login\bin\Debug\login.exe
+D:\vb\PROJEK AMAN\login\login\bin\Debug\login.pdb
+D:\vb\PROJEK AMAN\login\login\bin\Debug\login.xml
+D:\vb\PROJEK AMAN\login\login\bin\Debug\System.Data.SQLite.dll
+D:\vb\PROJEK AMAN\login\login\bin\Debug\System.Data.SQLite.xml
+D:\vb\PROJEK AMAN\login\login\obj\Debug\login.vbproj.AssemblyReference.cache
+D:\vb\PROJEK AMAN\login\login\obj\Debug\login.absen.resources
+D:\vb\PROJEK AMAN\login\login\obj\Debug\login.DATA.resources
+D:\vb\PROJEK AMAN\login\login\obj\Debug\login.barang.resources
+D:\vb\PROJEK AMAN\login\login\obj\Debug\login.biodata.resources
+D:\vb\PROJEK AMAN\login\login\obj\Debug\login.listuser.resources
+D:\vb\PROJEK AMAN\login\login\obj\Debug\login.menuUser.resources
+D:\vb\PROJEK AMAN\login\login\obj\Debug\login.register.resources
+D:\vb\PROJEK AMAN\login\login\obj\Debug\login.home.resources
+D:\vb\PROJEK AMAN\login\login\obj\Debug\login.login.resources
+D:\vb\PROJEK AMAN\login\login\obj\Debug\login.menuUtama.resources
+D:\vb\PROJEK AMAN\login\login\obj\Debug\login.Resources.resources
+D:\vb\PROJEK AMAN\login\login\obj\Debug\login.vbproj.GenerateResource.cache
+D:\vb\PROJEK AMAN\login\login\obj\Debug\login.vbproj.CoreCompileInputs.cache
+D:\vb\PROJEK AMAN\login\login\obj\Debug\login.vbproj.CopyComplete
+D:\vb\PROJEK AMAN\login\login\obj\Debug\login.exe
+D:\vb\PROJEK AMAN\login\login\obj\Debug\login.xml
+D:\vb\PROJEK AMAN\login\login\obj\Debug\login.pdb
+D:\vb\PROJEK AMAN\absen dan login\login\login\bin\Debug\login.exe.config
+D:\vb\PROJEK AMAN\absen dan login\login\login\bin\Debug\login.exe
+D:\vb\PROJEK AMAN\absen dan login\login\login\bin\Debug\login.pdb
+D:\vb\PROJEK AMAN\absen dan login\login\login\bin\Debug\login.xml
+D:\vb\PROJEK AMAN\absen dan login\login\login\bin\Debug\System.Data.SQLite.dll
+D:\vb\PROJEK AMAN\absen dan login\login\login\bin\Debug\System.Data.SQLite.xml
+D:\vb\PROJEK AMAN\absen dan login\login\login\obj\Debug\login.vbproj.AssemblyReference.cache
+D:\vb\PROJEK AMAN\absen dan login\login\login\obj\Debug\login.absen.resources
+D:\vb\PROJEK AMAN\absen dan login\login\login\obj\Debug\login.DATA.resources
+D:\vb\PROJEK AMAN\absen dan login\login\login\obj\Debug\login.barang.resources
+D:\vb\PROJEK AMAN\absen dan login\login\login\obj\Debug\login.biodata.resources
+D:\vb\PROJEK AMAN\absen dan login\login\login\obj\Debug\login.listuser.resources
+D:\vb\PROJEK AMAN\absen dan login\login\login\obj\Debug\login.menuUser.resources
+D:\vb\PROJEK AMAN\absen dan login\login\login\obj\Debug\login.register.resources
+D:\vb\PROJEK AMAN\absen dan login\login\login\obj\Debug\login.home.resources
+D:\vb\PROJEK AMAN\absen dan login\login\login\obj\Debug\login.login.resources
+D:\vb\PROJEK AMAN\absen dan login\login\login\obj\Debug\login.menuUtama.resources
+D:\vb\PROJEK AMAN\absen dan login\login\login\obj\Debug\login.Resources.resources
+D:\vb\PROJEK AMAN\absen dan login\login\login\obj\Debug\login.vbproj.GenerateResource.cache
+D:\vb\PROJEK AMAN\absen dan login\login\login\obj\Debug\login.vbproj.CoreCompileInputs.cache
+D:\vb\PROJEK AMAN\absen dan login\login\login\obj\Debug\login.vbproj.CopyComplete
+D:\vb\PROJEK AMAN\absen dan login\login\login\obj\Debug\login.exe
+D:\vb\PROJEK AMAN\absen dan login\login\login\obj\Debug\login.xml
+D:\vb\PROJEK AMAN\absen dan login\login\login\obj\Debug\login.pdb
+D:\vb\PROJEK AMAN\absen dan login\login\login\obj\Debug\login.Form1.resources
+D:\login\login\bin\Debug\login.exe.config
+D:\login\login\bin\Debug\login.exe
+D:\login\login\bin\Debug\login.pdb
+D:\login\login\bin\Debug\login.xml
+D:\login\login\bin\Debug\System.Data.SQLite.dll
+D:\login\login\bin\Debug\System.Data.SQLite.xml
+D:\login\login\obj\Debug\login.vbproj.AssemblyReference.cache
+D:\login\login\obj\Debug\login.absen.resources
+D:\login\login\obj\Debug\login.DATA.resources
+D:\login\login\obj\Debug\login.barang.resources
+D:\login\login\obj\Debug\login.Form1.resources
+D:\login\login\obj\Debug\login.biodata.resources
+D:\login\login\obj\Debug\login.listuser.resources
+D:\login\login\obj\Debug\login.menuUser.resources
+D:\login\login\obj\Debug\login.register.resources
+D:\login\login\obj\Debug\login.home.resources
+D:\login\login\obj\Debug\login.login.resources
+D:\login\login\obj\Debug\login.menuUtama.resources
+D:\login\login\obj\Debug\login.Resources.resources
+D:\login\login\obj\Debug\login.vbproj.GenerateResource.cache
+D:\login\login\obj\Debug\login.vbproj.CoreCompileInputs.cache
+D:\login\login\obj\Debug\login.vbproj.CopyComplete
+D:\login\login\obj\Debug\login.exe
+D:\login\login\obj\Debug\login.xml
+D:\login\login\obj\Debug\login.pdb
+D:\New folder\login\login\bin\Debug\login.exe.config
+D:\New folder\login\login\bin\Debug\login.exe
+D:\New folder\login\login\bin\Debug\login.pdb
+D:\New folder\login\login\bin\Debug\login.xml
+D:\New folder\login\login\bin\Debug\System.Data.SQLite.dll
+D:\New folder\login\login\bin\Debug\System.Data.SQLite.xml
+D:\New folder\login\login\obj\Debug\login.vbproj.AssemblyReference.cache
+D:\New folder\login\login\obj\Debug\login.absen.resources
+D:\New folder\login\login\obj\Debug\login.DATA.resources
+D:\New folder\login\login\obj\Debug\login.barang.resources
+D:\New folder\login\login\obj\Debug\login.Form1.resources
+D:\New folder\login\login\obj\Debug\login.biodata.resources
+D:\New folder\login\login\obj\Debug\login.listuser.resources
+D:\New folder\login\login\obj\Debug\login.menuUser.resources
+D:\New folder\login\login\obj\Debug\login.register.resources
+D:\New folder\login\login\obj\Debug\login.home.resources
+D:\New folder\login\login\obj\Debug\login.login.resources
+D:\New folder\login\login\obj\Debug\login.menuUtama.resources
+D:\New folder\login\login\obj\Debug\login.Resources.resources
+D:\New folder\login\login\obj\Debug\login.vbproj.GenerateResource.cache
+D:\New folder\login\login\obj\Debug\login.vbproj.CoreCompileInputs.cache
+D:\New folder\login\login\obj\Debug\login.vbproj.CopyComplete
+D:\New folder\login\login\obj\Debug\login.exe
+D:\New folder\login\login\obj\Debug\login.xml
+D:\New folder\login\login\obj\Debug\login.pdb
+F:\visual\login\login\login\bin\Debug\login.exe.config
+F:\visual\login\login\login\bin\Debug\login.exe
+F:\visual\login\login\login\bin\Debug\login.pdb
+F:\visual\login\login\login\bin\Debug\login.xml
+F:\visual\login\login\login\bin\Debug\System.Data.SQLite.dll
+F:\visual\login\login\login\bin\Debug\System.Data.SQLite.xml
+F:\visual\login\login\login\obj\Debug\login.vbproj.AssemblyReference.cache
+F:\visual\login\login\login\obj\Debug\login.absen.resources
+F:\visual\login\login\login\obj\Debug\login.DATA.resources
+F:\visual\login\login\login\obj\Debug\login.biodata.resources
+F:\visual\login\login\login\obj\Debug\login.listuser.resources
+F:\visual\login\login\login\obj\Debug\login.menuUser.resources
+F:\visual\login\login\login\obj\Debug\login.register.resources
+F:\visual\login\login\login\obj\Debug\login.home.resources
+F:\visual\login\login\login\obj\Debug\login.login.resources
+F:\visual\login\login\login\obj\Debug\login.menuUtama.resources
+F:\visual\login\login\login\obj\Debug\login.Resources.resources
+F:\visual\login\login\login\obj\Debug\login.vbproj.GenerateResource.cache
+F:\visual\login\login\login\obj\Debug\login.vbproj.CoreCompileInputs.cache
+F:\visual\login\login\login\obj\Debug\login.vbproj.CopyComplete
+F:\visual\login\login\login\obj\Debug\login.exe
+F:\visual\login\login\login\obj\Debug\login.xml
+F:\visual\login\login\login\obj\Debug\login.pdb
+F:\visual\login\login\login\obj\Debug\login.input.resources
+D:\Projek\login\login\login\bin\Debug\login.exe.config
+D:\Projek\login\login\login\bin\Debug\login.exe
+D:\Projek\login\login\login\bin\Debug\login.pdb
+D:\Projek\login\login\login\bin\Debug\login.xml
+D:\Projek\login\login\login\bin\Debug\System.Data.SQLite.dll
+D:\Projek\login\login\login\bin\Debug\System.Data.SQLite.xml
+D:\Projek\login\login\login\obj\Debug\login.vbproj.AssemblyReference.cache
+D:\Projek\login\login\login\obj\Debug\login.absen.resources
+D:\Projek\login\login\login\obj\Debug\login.DATA.resources
+D:\Projek\login\login\login\obj\Debug\login.input.resources
+D:\Projek\login\login\login\obj\Debug\login.biodata.resources
+D:\Projek\login\login\login\obj\Debug\login.listuser.resources
+D:\Projek\login\login\login\obj\Debug\login.menuUser.resources
+D:\Projek\login\login\login\obj\Debug\login.register.resources
+D:\Projek\login\login\login\obj\Debug\login.home.resources
+D:\Projek\login\login\login\obj\Debug\login.login.resources
+D:\Projek\login\login\login\obj\Debug\login.menuUtama.resources
+D:\Projek\login\login\login\obj\Debug\login.Resources.resources
+D:\Projek\login\login\login\obj\Debug\login.vbproj.GenerateResource.cache
+D:\Projek\login\login\login\obj\Debug\login.vbproj.CoreCompileInputs.cache
+D:\Projek\login\login\login\obj\Debug\login.vbproj.CopyComplete
+D:\Projek\login\login\login\obj\Debug\login.exe
+D:\Projek\login\login\login\obj\Debug\login.xml
+D:\Projek\login\login\login\obj\Debug\login.pdb
+D:\Projek\login\login\login\obj\Debug\login.scancard.resources
+D:\Projek1\login\login\login\bin\Debug\login.exe.config
+D:\Projek1\login\login\login\bin\Debug\login.exe
+D:\Projek1\login\login\login\bin\Debug\login.pdb
+D:\Projek1\login\login\login\bin\Debug\login.xml
+D:\Projek1\login\login\login\bin\Debug\System.Data.SQLite.dll
+D:\Projek1\login\login\login\bin\Debug\System.Data.SQLite.xml
+D:\Projek1\login\login\login\obj\Debug\login.vbproj.AssemblyReference.cache
+D:\Projek1\login\login\login\obj\Debug\login.absen.resources
+D:\Projek1\login\login\login\obj\Debug\login.DATA.resources
+D:\Projek1\login\login\login\obj\Debug\login.input.resources
+D:\Projek1\login\login\login\obj\Debug\login.biodata.resources
+D:\Projek1\login\login\login\obj\Debug\login.listuser.resources
+D:\Projek1\login\login\login\obj\Debug\login.menuUser.resources
+D:\Projek1\login\login\login\obj\Debug\login.register.resources
+D:\Projek1\login\login\login\obj\Debug\login.scancard.resources
+D:\Projek1\login\login\login\obj\Debug\login.home.resources
+D:\Projek1\login\login\login\obj\Debug\login.login.resources
+D:\Projek1\login\login\login\obj\Debug\login.menuUtama.resources
+D:\Projek1\login\login\login\obj\Debug\login.Resources.resources
+D:\Projek1\login\login\login\obj\Debug\login.vbproj.GenerateResource.cache
+D:\Projek1\login\login\login\obj\Debug\login.vbproj.CoreCompileInputs.cache
+D:\Projek1\login\login\login\obj\Debug\login.vbproj.CopyComplete
+D:\Projek1\login\login\login\obj\Debug\login.exe
+D:\Projek1\login\login\login\obj\Debug\login.xml
+D:\Projek1\login\login\login\obj\Debug\login.pdb
+D:\Projek1\login\login\login\obj\Debug\login.inBarang.resources
+D:\Projek1\login\login1\login\login\bin\Debug\login.exe.config
+D:\Projek1\login\login1\login\login\bin\Debug\login.exe
+D:\Projek1\login\login1\login\login\bin\Debug\login.pdb
+D:\Projek1\login\login1\login\login\bin\Debug\login.xml
+D:\Projek1\login\login1\login\login\bin\Debug\System.Data.SQLite.dll
+D:\Projek1\login\login1\login\login\bin\Debug\System.Data.SQLite.xml
+D:\Projek1\login\login1\login\login\obj\Debug\login.vbproj.AssemblyReference.cache
+D:\Projek1\login\login1\login\login\obj\Debug\login.inBarang.resources
+D:\Projek1\login\login1\login\login\obj\Debug\login.absen.resources
+D:\Projek1\login\login1\login\login\obj\Debug\login.DATA.resources
+D:\Projek1\login\login1\login\login\obj\Debug\login.input.resources
+D:\Projek1\login\login1\login\login\obj\Debug\login.biodata.resources
+D:\Projek1\login\login1\login\login\obj\Debug\login.listuser.resources
+D:\Projek1\login\login1\login\login\obj\Debug\login.menuUser.resources
+D:\Projek1\login\login1\login\login\obj\Debug\login.register.resources
+D:\Projek1\login\login1\login\login\obj\Debug\login.scancard.resources
+D:\Projek1\login\login1\login\login\obj\Debug\login.home.resources
+D:\Projek1\login\login1\login\login\obj\Debug\login.login.resources
+D:\Projek1\login\login1\login\login\obj\Debug\login.menuUtama.resources
+D:\Projek1\login\login1\login\login\obj\Debug\login.Resources.resources
+D:\Projek1\login\login1\login\login\obj\Debug\login.vbproj.GenerateResource.cache
+D:\Projek1\login\login1\login\login\obj\Debug\login.vbproj.CoreCompileInputs.cache
+D:\Projek1\login\login1\login\login\obj\Debug\login.vbproj.CopyComplete
+D:\Projek1\login\login1\login\login\obj\Debug\login.exe
+D:\Projek1\login\login1\login\login\obj\Debug\login.xml
+D:\Projek1\login\login1\login\login\obj\Debug\login.pdb
